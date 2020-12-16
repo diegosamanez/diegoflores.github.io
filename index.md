@@ -1,6 +1,6 @@
-# diego samanez
+# Desarrollador Web
 
-## Welcome to GitHub Pages
+## Bienvenido a mi pagina web
 
 You can use the [editor on GitHub](https://github.com/diegosamanez/diegosamanez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
